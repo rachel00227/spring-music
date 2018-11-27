@@ -17,5 +17,5 @@ public class Application {
     }
     
     
-    logger.info("Test Jenkins!!! ");
+    logger.info("Test Jenkins!!! ============ OUTPUT ===  ");
 }
