@@ -15,4 +15,7 @@ public class Application {
                 .application()
                 .run(args);
     }
+    
+    
+    logger.info("Test Jenkins!!! ");
 }
